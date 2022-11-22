@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BYT-04-Design-Patterns.iml" filepath="$PROJECT_DIR$/.idea/BYT-04-Design-Patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculator/Calculator.iml" filepath="$PROJECT_DIR$/Calculator/Calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Memento/Memento.iml" filepath="$PROJECT_DIR$/Memento/Memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pool/Pool.iml" filepath="$PROJECT_DIR$/Pool/Pool.iml" />
+    </modules>
+  </component>
+</project>
